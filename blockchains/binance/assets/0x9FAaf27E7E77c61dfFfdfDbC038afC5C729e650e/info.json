@@ -1,0 +1,41 @@
+{
+    "name": "STheMoney",
+    "type" : "BEP20",
+    "website": "https://www.STheMoney.com",
+    "description": "Memecoin with exclusive features for traders AND holders.",
+    "explorer": "https://bscscan.com/",
+    "symbol": "STM",
+    "type": "token",
+    "ID" : "0x9FAaf27E7E77c61dfFfdfDbC038afC5C729e650e",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "memecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/STheMoneyDev"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/Real_STM"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Portal_of_STM"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/STM_STheMoney/#"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@STheMoney"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://sthemoney.com/whitepaper"
+        }
+    ]
+}
